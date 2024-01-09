@@ -1,5 +1,5 @@
 {
-  "name": "e-society",
+  "name": "my-society",
   "version": "1.0.0",
   "description": "Community management app",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhijeetpandit7/E-Society.git"
+    "url": "git+https://github.com/iyogeshjoshi/MySociety.git"
   },
-  "author": "",
+  "author": "iyogeshjoshi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhijeetpandit7/E-Society/issues"
+    "url": "https://github.com/iyogeshjoshi/MySociety/issues"
   },
-  "homepage": "https://github.com/abhijeetpandit7/E-Society#readme",
+  "homepage": "https://github.com/iyogeshjoshi/MySociety#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
@@ -27,5 +27,8 @@
     "passport": "^0.4.1",
     "passport-local-mongoose": "^6.1.0",
     "stripe": "^8.137.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
   }
 }

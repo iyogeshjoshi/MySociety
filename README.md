@@ -56,8 +56,8 @@ Provide flexibility to members for managing and updating registered member detai
 At this point, you have all the necessary files to run the projet. You will still need to configure your MongoDB database in .env file.
 
 ## Contributions
-<a href="https://github.com/abhijeetpandit7/e-society/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhijeetpandit7/e-society" />
+<a href="https://github.com/iyogeshjoshi/MySociety/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iyogeshjoshi/MySociety" />
 </a>
 
 <img src= 'https://user-images.githubusercontent.com/65078610/112977547-d114cd00-9173-11eb-9768-8dc29a38a98d.png' width="1200">
